@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24843,
+		"ips": 24838,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10576,
+		"ips": 10581,
 		"common": 5
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14744,
+		"ips": 14810,
 		"common": 9
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583564,
+		"ips": 9583629,
 		"common": 4163
 	},
 	{
@@ -840,15 +840,27 @@
 		"common": 1
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 144,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_1d",
+		"category": "anonymizers",
+		"ips": 450,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4772,
+		"ips": 4758,
 		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1513,
+		"ips": 1496,
 		"common": 2
 	},
 	{
