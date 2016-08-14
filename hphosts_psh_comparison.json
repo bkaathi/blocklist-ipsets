@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 242,
+		"ips": 240,
 		"common": 65
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15409,
+		"ips": 15395,
 		"common": 228
 	},
 	{
@@ -402,22 +402,28 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 107520,
-		"common": 35
+		"ips": 108032,
+		"common": 36
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1574400,
-		"common": 415
+		"ips": 1575424,
+		"common": 416
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 473600,
-		"common": 100
+		"ips": 473856,
+		"common": 101
 	},
 	{
 		"name": "dshield_top_1000",
@@ -518,25 +524,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278300,
-		"common": 96
+		"ips": 666278042,
+		"common": 99
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 144527,
-		"common": 55
+		"ips": 145039,
+		"common": 56
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1644807,
-		"common": 476
+		"ips": 1645845,
+		"common": 477
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584181,
+		"ips": 9584168,
 		"common": 1465
 	},
 	{
