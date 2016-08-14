@@ -86,8 +86,8 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 300,
-		"common": 300
+		"ips": 302,
+		"common": 302
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -98,26 +98,26 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 610,
-		"common": 607
+		"ips": 612,
+		"common": 609
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4313,
-		"common": 4313
+		"ips": 4319,
+		"common": 4319
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5707,
-		"common": 5707
+		"ips": 5708,
+		"common": 5708
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10509,
-		"common": 10509
+		"ips": 10504,
+		"common": 10504
 	},
 	{
 		"name": "blocklist_de",
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85606,
+		"ips": 85611,
 		"common": 249
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28065,
+		"ips": 28070,
 		"common": 2
 	},
 	{
@@ -513,7 +513,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 607
+		"common": 606
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -651,7 +651,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 986
+		"common": 985
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -837,7 +837,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 7435
+		"common": 7433
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -873,7 +873,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1483
+		"common": 1484
 	},
 	{
 		"name": "sp_atma",
