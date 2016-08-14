@@ -212,7 +212,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15443,
+		"ips": 15392,
 		"common": 181
 	},
 	{
@@ -320,67 +320,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3885,
-		"common": 1
+		"ips": 3930,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 41579,
+		"ips": 41526,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 178875,
+		"ips": 178880,
 		"common": 102
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 94220,
+		"ips": 94201,
 		"common": 63
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1922,
+		"ips": 1930,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4127,
+		"ips": 4131,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 69818,
+		"ips": 69814,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 16065,
+		"ips": 16079,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 47954,
+		"ips": 47894,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 183840,
+		"ips": 183855,
 		"common": 129
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111597,
+		"ips": 111537,
 		"common": 78
 	},
 	{
@@ -584,13 +590,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51341,
+		"ips": 51289,
 		"common": 15
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 344988,
+		"ips": 345006,
 		"common": 144
 	},
 	{
@@ -608,8 +614,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145200,
-		"common": 29
+		"ips": 145177,
+		"common": 28
 	},
 	{
 		"name": "firehol_level3",
@@ -620,7 +626,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584215,
+		"ips": 9584166,
 		"common": 1484
 	},
 	{
@@ -656,8 +662,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 7827,
-		"common": 13
+		"ips": 7800,
+		"common": 12
 	},
 	{
 		"name": "haley_ssh",
@@ -1094,7 +1100,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1453,
+		"ips": 1454,
 		"common": 897
 	},
 	{
