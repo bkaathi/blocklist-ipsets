@@ -27,13 +27,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9334,
-		"common": 232
+		"common": 234
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4968,
-		"common": 164
+		"common": 166
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -45,7 +45,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 2710,
-		"common": 226
+		"common": 228
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -56,14 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30997,
-		"common": 949
+		"ips": 30932,
+		"common": 948
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26878,
-		"common": 949
+		"ips": 26823,
+		"common": 948
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51043,
+		"ips": 51050,
 		"common": 12
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85580,
+		"ips": 85581,
 		"common": 4
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142722,
-		"common": 949
+		"ips": 142656,
+		"common": 948
 	},
 	{
 		"name": "firehol_level3",
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28024,
+		"ips": 28025,
 		"common": 1
 	},
 	{
@@ -333,7 +333,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 4176,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "haley_ssh",
@@ -429,13 +429,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 29
+		"common": 27
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 74
+		"common": 72
 	},
 	{
 		"name": "iblocklist_level3",
@@ -495,13 +495,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2670867,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -573,7 +573,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 121494,
-		"common": 83
+		"common": 84
 	},
 	{
 		"name": "packetmail",
@@ -639,7 +639,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -657,13 +657,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1288467,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6099893,
-		"common": 52
+		"common": 51
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -765,7 +765,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 87
+		"common": 86
 	},
 	{
 		"name": "voipbl",
