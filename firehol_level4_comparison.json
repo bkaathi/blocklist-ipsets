@@ -164,8 +164,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 4968,
-		"common": 1184
+		"ips": 4951,
+		"common": 1172
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -242,14 +242,14 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1442,
+		"ips": 1444,
 		"common": 722
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 291,
-		"common": 151
+		"ips": 290,
+		"common": 150
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -260,7 +260,7 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 948,
+		"ips": 953,
 		"common": 29
 	},
 	{
@@ -272,8 +272,8 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 148,
-		"common": 11
+		"ips": 149,
+		"common": 12
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -830,8 +830,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85536,
-		"common": 2205
+		"ips": 85534,
+		"common": 2204
 	},
 	{
 		"name": "firehol_level1",
@@ -1340,8 +1340,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36628,
-		"common": 236
+		"ips": 36662,
+		"common": 240
 	},
 	{
 		"name": "nt_malware_http",
@@ -1652,7 +1652,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1453,
+		"ips": 1452,
 		"common": 182
 	},
 	{
@@ -1959,7 +1959,7 @@
 		"name": "tor_exits",
 		"category": "anonymizers",
 		"ips": 1021,
-		"common": 402
+		"common": 401
 	},
 	{
 		"name": "tor_exits_1d",
@@ -1970,14 +1970,14 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2963,
+		"ips": 2965,
 		"common": 581
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1516,
-		"common": 477
+		"ips": 1515,
+		"common": 476
 	},
 	{
 		"name": "trustedsec_atif",
