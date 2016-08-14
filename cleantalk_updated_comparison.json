@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 24340,
+		"ips": 24546,
 		"common": 5
 	},
 	{
@@ -62,20 +62,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30117,
-		"common": 69
+		"ips": 30110,
+		"common": 68
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9015,
+		"ips": 9012,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1482,
-		"common": 41
+		"ips": 1476,
+		"common": 40
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -86,25 +86,25 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 368,
+		"ips": 369,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 944,
+		"ips": 940,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25896,
+		"ips": 25906,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1747,
+		"ips": 1739,
 		"common": 1
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145207,
-		"common": 90
+		"ips": 145200,
+		"common": 89
 	},
 	{
 		"name": "firehol_level3",
@@ -1088,7 +1088,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 265,
+		"ips": 263,
 		"common": 4
 	}
 ]
