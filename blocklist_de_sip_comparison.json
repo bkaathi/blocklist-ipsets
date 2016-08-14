@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 24546,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -21,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9334,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -45,13 +45,13 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 120,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30136,
-		"common": 108
+		"ips": 30017,
+		"common": 110
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -81,19 +81,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 108800,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1574912,
-		"common": 27
+		"common": 29
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 474880,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "et_block",
@@ -116,14 +116,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145971,
-		"common": 108
+		"ips": 145854,
+		"common": 110
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1645363,
-		"common": 28
+		"common": 30
 	},
 	{
 		"name": "firehol_level4",
@@ -141,7 +141,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095130,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "haley_ssh",
@@ -177,7 +177,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -309,6 +309,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18245,
-		"common": 56
+		"common": 57
 	}
 ]

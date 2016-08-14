@@ -138,6 +138,12 @@
 		"common": 6
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 240,
@@ -296,19 +302,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30136,
-		"common": 4730
+		"ips": 30017,
+		"common": 4732
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9014,
-		"common": 4195
+		"ips": 9013,
+		"common": 4196
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1478,
+		"ips": 1470,
 		"common": 233
 	},
 	{
@@ -320,32 +326,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 369,
+		"ips": 359,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 944,
-		"common": 64
+		"ips": 949,
+		"common": 65
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25931,
+		"ips": 25837,
 		"common": 4296
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 150,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1735,
-		"common": 114
+		"ips": 1728,
+		"common": 115
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -656,7 +662,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 65486,
+		"ips": 65513,
 		"common": 1031
 	},
 	{
@@ -902,8 +908,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145971,
-		"common": 18971
+		"ips": 145854,
+		"common": 18973
 	},
 	{
 		"name": "firehol_level3",

@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30136,
-		"common": 369
+		"ips": 30017,
+		"common": 359
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 15399,
-		"common": 150
+		"common": 151
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -81,7 +81,7 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 41673,
-		"common": 114
+		"common": 115
 	},
 	{
 		"name": "cleantalk_30d",
@@ -111,7 +111,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 69829,
-		"common": 128
+		"common": 127
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -129,7 +129,7 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 48060,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -171,7 +171,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1574912,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dshield_7d",
@@ -183,7 +183,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 51456,
-		"common": 116
+		"common": 117
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -194,20 +194,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145971,
-		"common": 369
+		"ips": 145854,
+		"common": 359
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1645363,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9584167,
-		"common": 152
+		"common": 153
 	},
 	{
 		"name": "firehol_webserver",
@@ -225,7 +225,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 7800,
-		"common": 186
+		"common": 185
 	},
 	{
 		"name": "haley_ssh",
@@ -273,13 +273,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 16
-	},
-	{
-		"name": "iblocklist_pedophiles",
-		"category": "reputation",
-		"ips": 819694,
-		"common": 1
+		"common": 15
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -303,13 +297,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2785348,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 36056,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "openbl_180d",
@@ -381,7 +375,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 27
+		"common": 24
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -393,7 +387,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 14
+		"common": 12
 	},
 	{
 		"name": "sorbs_recent_spam",
