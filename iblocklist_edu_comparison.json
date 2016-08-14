@@ -554,7 +554,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 896,
+		"ips": 895,
 		"common": 9
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85532,
+		"ips": 85533,
 		"common": 483
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28030,
+		"ips": 28031,
 		"common": 335
 	},
 	{
@@ -1178,8 +1178,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36069,
-		"common": 237
+		"ips": 36113,
+		"common": 235
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1560,21 +1560,27 @@
 		"common": 117
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2600,
+		"ips": 2603,
 		"common": 32
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14194,
+		"ips": 14195,
 		"common": 85
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7141,
+		"ips": 7143,
 		"common": 51
 	},
 	{
