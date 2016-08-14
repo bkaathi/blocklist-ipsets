@@ -122,31 +122,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29817,
+		"ips": 29895,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9007,
+		"ips": 9010,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1477,
+		"ips": 1482,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25608,
+		"ips": 25666,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15469,
+		"ips": 15505,
 		"common": 1
 	},
 	{
@@ -336,22 +336,28 @@
 		"common": 10
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 105472,
-		"common": 16
+		"ips": 106496,
+		"common": 17
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1570560,
+		"ips": 1571584,
 		"common": 137
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 470528,
-		"common": 54
+		"ips": 470784,
+		"common": 51
 	},
 	{
 		"name": "esentire_dorttlokolrt_com",
@@ -416,25 +422,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666279326,
-		"common": 13
+		"ips": 666279323,
+		"common": 15
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142261,
-		"common": 18
+		"ips": 143361,
+		"common": 19
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1640837,
+		"ips": 1641861,
 		"common": 156
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584256,
+		"ips": 9584292,
 		"common": 36
 	},
 	{
