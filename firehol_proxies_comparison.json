@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1237,
-		"common": 148
+		"ips": 1245,
+		"common": 150
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -230,74 +230,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3871,
-		"common": 193
+		"ips": 3868,
+		"common": 185
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 42331,
-		"common": 2470
+		"ips": 42296,
+		"common": 2474
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 178506,
-		"common": 10263
+		"ips": 178521,
+		"common": 10265
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 94526,
-		"common": 5761
+		"ips": 94522,
+		"common": 5759
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1903,
-		"common": 94
+		"ips": 1900,
+		"common": 95
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4130,
-		"common": 204
+		"ips": 4141,
+		"common": 205
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 69818,
-		"common": 3746
+		"ips": 69811,
+		"common": 3747
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 16014,
-		"common": 886
+		"ips": 16033,
+		"common": 889
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 103
+		"common": 94
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 48776,
-		"common": 2489
+		"ips": 48742,
+		"common": 2494
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 183114,
-		"common": 9306
+		"ips": 183161,
+		"common": 9309
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111926,
-		"common": 5811
+		"common": 5809
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -482,20 +482,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52143,
-		"common": 2723
+		"ips": 52114,
+		"common": 2725
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 344453,
-		"common": 12399
+		"ips": 344472,
+		"common": 12400
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85743,
-		"common": 28040
+		"ips": 85747,
+		"common": 28044
 	},
 	{
 		"name": "firehol_level1",
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142257,
+		"ips": 142261,
 		"common": 1473
 	},
 	{
@@ -717,7 +717,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 1202
+		"common": 1203
 	},
 	{
 		"name": "iblocklist_level3",
@@ -1046,8 +1046,8 @@
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4115,
-		"common": 4105
+		"ips": 4098,
+		"common": 4088
 	},
 	{
 		"name": "proxyrss",
@@ -1203,24 +1203,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2637,
-		"common": 2539
+		"ips": 2640,
+		"common": 2541
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14211,
-		"common": 13463
+		"ips": 14213,
+		"common": 13465
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7197,
+		"ips": 7198,
 		"common": 6796
 	},
 	{
@@ -1233,7 +1233,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 4390
+		"common": 4391
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1269,7 +1269,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4197
+		"common": 4199
 	},
 	{
 		"name": "sp_atma",
@@ -1304,20 +1304,20 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 268,
-		"common": 268
+		"ips": 269,
+		"common": 269
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2528,
-		"common": 2528
+		"ips": 2530,
+		"common": 2530
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1055,
-		"common": 1055
+		"ips": 1057,
+		"common": 1057
 	},
 	{
 		"name": "stopforumspam",
