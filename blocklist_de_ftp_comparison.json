@@ -27,19 +27,19 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9334,
-		"common": 104
+		"common": 103
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4968,
-		"common": 89
+		"common": 88
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 263,
-		"common": 104
+		"common": 103
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30799,
-		"common": 352
+		"ips": 30758,
+		"common": 348
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 15069,
-		"common": 148
+		"common": 147
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -87,13 +87,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 179055,
-		"common": 204
+		"common": 202
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 94275,
-		"common": 194
+		"common": 192
 	},
 	{
 		"name": "cleantalk_new",
@@ -111,13 +111,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 69782,
-		"common": 124
+		"common": 123
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 16139,
-		"common": 94
+		"common": 93
 	},
 	{
 		"name": "cleantalk_updated",
@@ -135,18 +135,18 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 184269,
-		"common": 182
+		"common": 180
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111645,
-		"common": 171
+		"common": 169
 	},
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 10289,
+		"ips": 10385,
 		"common": 1
 	},
 	{
@@ -189,13 +189,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 345282,
-		"common": 221
+		"common": 219
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 144048,
-		"common": 352
+		"common": 348
 	},
 	{
 		"name": "firehol_level3",
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583842,
-		"common": 150
+		"ips": 9583923,
+		"common": 149
 	},
 	{
 		"name": "firehol_webserver",
@@ -225,7 +225,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 4176,
-		"common": 100
+		"common": 99
 	},
 	{
 		"name": "haley_ssh",
@@ -405,7 +405,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 61
+		"common": 59
 	},
 	{
 		"name": "sp_atma",
@@ -471,6 +471,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 34
+		"common": 33
 	}
 ]
