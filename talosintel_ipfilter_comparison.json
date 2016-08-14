@@ -117,7 +117,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 29817,
-		"common": 308
+		"common": 309
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -147,13 +147,13 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 25608,
-		"common": 302
+		"common": 303
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15408,
-		"common": 127
+		"ips": 15505,
+		"common": 128
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -483,19 +483,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 142261,
-		"common": 321
+		"common": 322
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1640816,
-		"common": 8451
+		"ips": 1641605,
+		"common": 8478
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584196,
-		"common": 484
+		"ips": 9584289,
+		"common": 485
 	},
 	{
 		"name": "firehol_proxies",
@@ -627,7 +627,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 435
+		"common": 438
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -645,7 +645,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 116
+		"common": 117
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -807,7 +807,7 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 2538,
-		"common": 62
+		"common": 63
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -825,7 +825,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2785348,
-		"common": 2401
+		"common": 2406
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1167,7 +1167,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 8552,
-		"common": 8438
+		"common": 8444
 	},
 	{
 		"name": "socks_proxy",
@@ -1221,7 +1221,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1288467,
-		"common": 1589
+		"common": 1591
 	},
 	{
 		"name": "sorbs_web",
@@ -1233,7 +1233,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 492
+		"common": 493
 	},
 	{
 		"name": "sp_atma",
