@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15334,
+		"ips": 15285,
 		"common": 19
 	},
 	{
@@ -90,22 +90,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 38,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1211,
+		"ips": 1199,
 		"common": 27
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21248,
+		"ips": 21232,
 		"common": 304
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6843,
-		"common": 154
+		"ips": 6838,
+		"common": 155
 	},
 	{
 		"name": "bruteforceblocker",
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584118,
+		"ips": 9584059,
 		"common": 307
 	},
 	{
@@ -956,8 +962,8 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 104,
-		"common": 104
+		"ips": 103,
+		"common": 103
 	},
 	{
 		"name": "xroxy_30d",
