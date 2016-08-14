@@ -188,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15540,
-		"common": 124
+		"ips": 15513,
+		"common": 125
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584314,
+		"ips": 9584289,
 		"common": 2428
 	},
 	{
@@ -844,6 +844,12 @@
 		"category": "abuse",
 		"ips": 200,
 		"common": 25
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 2567,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
