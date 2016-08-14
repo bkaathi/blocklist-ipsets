@@ -158,32 +158,32 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 612,
+		"ips": 613,
 		"common": 61
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4387,
+		"ips": 4373,
 		"common": 764
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
 		"ips": 5725,
-		"common": 1237
+		"common": 1241
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24829,
-		"common": 7441
+		"ips": 24830,
+		"common": 7445
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10543,
-		"common": 2796
+		"ips": 10542,
+		"common": 2799
 	},
 	{
 		"name": "blocklist_de",
@@ -552,27 +552,21 @@
 		"common": 69533
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 512
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110336,
+		"ips": 109568,
 		"common": 6144
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1575936,
-		"common": 118799
+		"ips": 1574400,
+		"common": 118543
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 475904,
+		"ips": 475648,
 		"common": 36536
 	},
 	{
@@ -782,8 +776,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278044,
-		"common": 77586
+		"ips": 666277788,
+		"common": 77074
 	},
 	{
 		"name": "firehol_level2",
@@ -794,8 +788,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646387,
-		"common": 125948
+		"ips": 1644863,
+		"common": 125693
 	},
 	{
 		"name": "firehol_level4",
@@ -1220,8 +1214,8 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 2785348,
-		"common": 483941
+		"ips": 2670867,
+		"common": 463107
 	},
 	{
 		"name": "malc0de",
@@ -1250,8 +1244,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36113,
-		"common": 5425
+		"ips": 36183,
+		"common": 5430
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1826,8 +1820,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8077,
-		"common": 679
+		"ips": 7980,
+		"common": 678
 	},
 	{
 		"name": "threatcrowd",

@@ -213,7 +213,7 @@
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
 		"ips": 300,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -224,31 +224,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 612,
+		"ips": 613,
 		"common": 45
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4387,
+		"ips": 4373,
 		"common": 310
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
 		"ips": 5725,
-		"common": 338
+		"common": 337
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24829,
-		"common": 984
+		"ips": 24830,
+		"common": 983
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10543,
+		"ips": 10542,
 		"common": 479
 	},
 	{
@@ -633,24 +633,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 256
+		"common": 512
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110336,
+		"ips": 109568,
 		"common": 9216
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1575936,
-		"common": 91169
+		"ips": 1574400,
+		"common": 90913
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 475904,
+		"ips": 475648,
 		"common": 31776
 	},
 	{
@@ -878,8 +878,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278044,
-		"common": 4940179
+		"ips": 666277788,
+		"common": 4940435
 	},
 	{
 		"name": "firehol_level2",
@@ -890,8 +890,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646387,
-		"common": 94848
+		"ips": 1644863,
+		"common": 94592
 	},
 	{
 		"name": "firehol_level4",
@@ -1328,8 +1328,8 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 2785348,
-		"common": 351682
+		"ips": 2670867,
+		"common": 335709
 	},
 	{
 		"name": "malc0de",
@@ -1358,8 +1358,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36113,
-		"common": 2630
+		"ips": 36183,
+		"common": 2627
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1958,8 +1958,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8077,
-		"common": 346
+		"ips": 7980,
+		"common": 343
 	},
 	{
 		"name": "threatcrowd",

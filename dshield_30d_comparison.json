@@ -212,13 +212,13 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 612,
+		"ips": 613,
 		"common": 16
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4387,
+		"ips": 4373,
 		"common": 79
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24829,
+		"ips": 24830,
 		"common": 138
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10543,
+		"ips": 10542,
 		"common": 110
 	},
 	{
@@ -369,7 +369,7 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 21232,
-		"common": 244
+		"common": 243
 	},
 	{
 		"name": "botscout_7d",
@@ -441,7 +441,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 178997,
-		"common": 1276
+		"common": 1275
 	},
 	{
 		"name": "cleantalk_7d",
@@ -465,7 +465,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 69833,
-		"common": 301
+		"common": 300
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -561,7 +561,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 303799,
-		"common": 859
+		"common": 869
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -585,7 +585,7 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 65513,
-		"common": 169
+		"common": 168
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -602,14 +602,14 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110336,
-		"common": 110336
+		"ips": 109568,
+		"common": 109568
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 475904,
-		"common": 475904
+		"ips": 475648,
+		"common": 475648
 	},
 	{
 		"name": "dshield_top_1000",
@@ -801,7 +801,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 345172,
-		"common": 2884
+		"common": 2883
 	},
 	{
 		"name": "firehol_anonymous",
@@ -812,8 +812,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278044,
-		"common": 8507
+		"ips": 666277788,
+		"common": 8251
 	},
 	{
 		"name": "firehol_level2",
@@ -824,14 +824,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646387,
-		"common": 1575936
+		"ips": 1644863,
+		"common": 1574400
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9584100,
-		"common": 2819
+		"common": 2818
 	},
 	{
 		"name": "firehol_proxies",
@@ -1053,7 +1053,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 49426
+		"common": 49425
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1065,7 +1065,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 91169
+		"common": 90913
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1208,8 +1208,8 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 2785348,
-		"common": 10980
+		"ips": 2670867,
+		"common": 10557
 	},
 	{
 		"name": "malc0de",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36113,
-		"common": 164
+		"ips": 36183,
+		"common": 162
 	},
 	{
 		"name": "nt_malware_http",
@@ -1653,19 +1653,19 @@
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 604168,
-		"common": 984
+		"common": 985
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 118799
+		"common": 118543
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 207180,
-		"common": 1156
+		"common": 1155
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1677,7 +1677,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1288467,
-		"common": 6642
+		"common": 6635
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1689,13 +1689,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6099893,
-		"common": 14995
+		"common": 14959
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 176231
+		"common": 176487
 	},
 	{
 		"name": "sp_atma",
@@ -1802,7 +1802,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8077,
+		"ips": 7980,
 		"common": 110
 	},
 	{

@@ -210,21 +210,27 @@
 		"common": 2
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110336,
+		"ips": 109568,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1575936,
+		"ips": 1574400,
 		"common": 14
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 475904,
+		"ips": 475648,
 		"common": 6
 	},
 	{
@@ -284,8 +290,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278044,
-		"common": 22
+		"ips": 666277788,
+		"common": 23
 	},
 	{
 		"name": "firehol_level2",
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646387,
+		"ips": 1644863,
 		"common": 60
 	},
 	{
@@ -482,8 +488,8 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 2785348,
-		"common": 64
+		"ips": 2670867,
+		"common": 95
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -500,8 +506,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36113,
-		"common": 50
+		"ips": 36183,
+		"common": 47
 	},
 	{
 		"name": "openbl_360d",
@@ -830,7 +836,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8077,
+		"ips": 7980,
 		"common": 28
 	},
 	{
