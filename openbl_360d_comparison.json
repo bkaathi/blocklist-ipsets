@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9003,
+		"ips": 8998,
 		"common": 9
 	},
 	{
@@ -152,14 +152,14 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 337,
+		"ips": 334,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 953,
-		"common": 74
+		"ips": 951,
+		"common": 75
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 149,
+		"ips": 147,
 		"common": 2
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 107,
 		"common": 42
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14745,
+		"ips": 14749,
 		"common": 126
 	},
 	{
@@ -236,25 +236,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 54,
-		"common": 3
+		"ips": 46,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1191,
-		"common": 20
+		"ips": 1212,
+		"common": 21
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21193,
+		"ips": 21187,
 		"common": 105
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6808,
+		"ips": 6809,
 		"common": 57
 	},
 	{
@@ -447,25 +447,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 80
+		"common": 82
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 109824,
-		"common": 536
+		"ips": 110848,
+		"common": 535
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1578752,
-		"common": 2061
+		"ips": 1579264,
+		"common": 2062
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 476416,
-		"common": 1231
+		"ips": 478464,
+		"common": 1233
 	},
 	{
 		"name": "dshield_top_1000",
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50478,
+		"ips": 50480,
 		"common": 136
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278045,
-		"common": 382
+		"ips": 666278301,
+		"common": 387
 	},
 	{
 		"name": "firehol_level2",
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583574,
+		"ips": 9583566,
 		"common": 2429
 	},
 	{
