@@ -21,13 +21,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9334,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4951,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -51,18 +51,18 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 120,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30898,
-		"common": 95
+		"ips": 30740,
+		"common": 88
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14760,
+		"ips": 14789,
 		"common": 2
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145278,
-		"common": 95
+		"ips": 145118,
+		"common": 88
 	},
 	{
 		"name": "firehol_level3",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583571,
+		"ips": 9583600,
 		"common": 12
 	},
 	{
@@ -357,7 +357,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6099893,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -387,6 +387,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18245,
-		"common": 50
+		"common": 43
 	}
 ]

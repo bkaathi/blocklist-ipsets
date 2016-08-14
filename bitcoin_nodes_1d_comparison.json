@@ -63,7 +63,7 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 1341,
-		"common": 1053
+		"common": 1052
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -74,20 +74,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4442,
-		"common": 4442
+		"ips": 4440,
+		"common": 4440
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24837,
-		"common": 5757
+		"ips": 24841,
+		"common": 5759
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10574,
-		"common": 5757
+		"ips": 10578,
+		"common": 5759
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145278,
+		"ips": 145118,
 		"common": 16
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583571,
+		"ips": 9583600,
 		"common": 17
 	},
 	{
@@ -369,7 +369,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353869,
-		"common": 994
+		"common": 995
 	},
 	{
 		"name": "fullbogons",
@@ -495,7 +495,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 290
+		"common": 289
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -681,7 +681,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
-		"common": 961
+		"common": 962
 	},
 	{
 		"name": "sblam",
@@ -711,7 +711,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 1246
+		"common": 1245
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 207180,
+		"common": 1
 	},
 	{
 		"name": "sorbs_noserver",
@@ -723,7 +729,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1288467,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
@@ -735,7 +741,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 176
+		"common": 177
 	},
 	{
 		"name": "sp_atma",
