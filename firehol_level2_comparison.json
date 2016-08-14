@@ -170,13 +170,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4396,
+		"ips": 4402,
 		"common": 16
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5757,
+		"ips": 5756,
 		"common": 16
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10581,
+		"ips": 10580,
 		"common": 20
 	},
 	{
@@ -656,8 +656,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85577,
-		"common": 1462
+		"ips": 85580,
+		"common": 1463
 	},
 	{
 		"name": "firehol_level1",
@@ -680,8 +680,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28011,
-		"common": 1450
+		"ips": 28014,
+		"common": 1451
 	},
 	{
 		"name": "firehol_webserver",
@@ -1262,14 +1262,14 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 979,
+		"ips": 969,
 		"common": 102
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1343,
-		"common": 136
+		"ips": 1346,
+		"common": 132
 	},
 	{
 		"name": "proxylists_30d",
@@ -1437,25 +1437,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 22
+		"common": 40
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2522,
-		"common": 860
+		"ips": 2523,
+		"common": 863
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14184,
-		"common": 1148
+		"ips": 14183,
+		"common": 1149
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7116,
-		"common": 1104
+		"ips": 7119,
+		"common": 1107
 	},
 	{
 		"name": "sorbs_anonymizers",
