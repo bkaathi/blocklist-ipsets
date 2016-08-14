@@ -183,7 +183,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 51258,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -392,14 +392,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147550,
+		"ips": 147549,
 		"common": 145
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1648025,
-		"common": 894
+		"common": 895
 	},
 	{
 		"name": "firehol_level4",
@@ -411,7 +411,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
-		"common": 188
+		"common": 189
 	},
 	{
 		"name": "gofferje_sip",
@@ -489,7 +489,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 15307,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "hphosts_wrz",
@@ -507,7 +507,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 116
+		"common": 115
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -561,7 +561,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 70
+		"common": 69
 	},
 	{
 		"name": "iblocklist_level2",
@@ -856,6 +856,12 @@
 		"category": "attacks",
 		"ips": 18245,
 		"common": 3
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 69,
+		"common": 1
 	},
 	{
 		"name": "yoyo_adservers",
