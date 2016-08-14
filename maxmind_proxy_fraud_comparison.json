@@ -264,6 +264,12 @@
 		"common": 16
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 110848,
@@ -272,13 +278,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1579264,
+		"ips": 1581056,
 		"common": 19
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 478464,
+		"ips": 478720,
 		"common": 9
 	},
 	{
@@ -306,6 +312,12 @@
 		"common": 462
 	},
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 666278300,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 147170,
@@ -314,7 +326,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1649846,
+		"ips": 1651660,
 		"common": 462
 	},
 	{
@@ -518,7 +530,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36819,
+		"ips": 36844,
 		"common": 1
 	},
 	{
@@ -788,7 +800,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7750,
+		"ips": 7664,
 		"common": 231
 	},
 	{
