@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1426,
+		"ips": 1431,
 		"common": 23
 	},
 	{
@@ -56,20 +56,20 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1210,
+		"ips": 1212,
 		"common": 4
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21178,
+		"ips": 21184,
 		"common": 96
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 6798,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "cleantalk",
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50367,
+		"ips": 50366,
 		"common": 107
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85611,
+		"ips": 85540,
 		"common": 580
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583617,
+		"ips": 9583623,
 		"common": 97
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28013,
+		"ips": 28019,
 		"common": 583
 	},
 	{
@@ -540,21 +540,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2466,
+		"ips": 2460,
 		"common": 13
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14167,
+		"ips": 14164,
 		"common": 21
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7103,
+		"ips": 7093,
 		"common": 19
 	},
 	{
@@ -602,19 +608,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 280,
+		"ips": 284,
 		"common": 10
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2551,
+		"ips": 2556,
 		"common": 64
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1094,
+		"ips": 1093,
 		"common": 29
 	},
 	{
