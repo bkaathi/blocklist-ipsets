@@ -116,19 +116,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29760,
-		"common": 555
+		"ips": 29817,
+		"common": 556
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9008,
+		"ips": 9007,
 		"common": 194
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1476,
+		"ips": 1477,
 		"common": 10
 	},
 	{
@@ -146,14 +146,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 978,
-		"common": 67
+		"ips": 977,
+		"common": 66
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25550,
-		"common": 100
+		"ips": 25608,
+		"common": 101
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -170,8 +170,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15440,
-		"common": 2116
+		"ips": 15408,
+		"common": 2101
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -429,24 +429,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 15
+		"common": 11
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 106240,
-		"common": 70
+		"ips": 105472,
+		"common": 68
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1570560,
+		"ips": 1571328,
 		"common": 255
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 469504,
+		"ips": 470528,
 		"common": 150
 	},
 	{
@@ -519,12 +519,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666279326,
-		"common": 18
+		"common": 14
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142967,
+		"ips": 142257,
 		"common": 7703
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584235,
-		"common": 2522
+		"ips": 9584196,
+		"common": 2509
 	},
 	{
 		"name": "firehol_proxies",
@@ -860,8 +860,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31094,
-		"common": 94
+		"ips": 31712,
+		"common": 96
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1286,7 +1286,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8565,
+		"ips": 8462,
 		"common": 7
 	},
 	{

@@ -51,7 +51,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9334,
-		"common": 737
+		"common": 738
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -75,12 +75,12 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 5856,
-		"common": 738
+		"common": 739
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29760,
+		"ips": 29817,
 		"common": 1745
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15440,
+		"ips": 15408,
 		"common": 86
 	},
 	{
@@ -171,7 +171,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 178506,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "cleantalk_7d",
@@ -207,7 +207,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 183114,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -291,24 +291,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 13
+		"common": 10
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 106240,
+		"ips": 105472,
 		"common": 122
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1570560,
-		"common": 333
+		"ips": 1571328,
+		"common": 334
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 469504,
+		"ips": 470528,
 		"common": 225
 	},
 	{
@@ -381,7 +381,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 344453,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "firehol_anonymous",
@@ -393,31 +393,31 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666279326,
-		"common": 17
+		"common": 14
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142967,
+		"ips": 142257,
 		"common": 1745
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1640816,
-		"common": 616
+		"common": 617
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584235,
+		"ips": 9584196,
 		"common": 233
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
-		"common": 111
+		"common": 112
 	},
 	{
 		"name": "gofferje_sip",
@@ -614,7 +614,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31094,
+		"ips": 31712,
 		"common": 8
 	},
 	{
@@ -705,7 +705,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
-		"common": 92
+		"common": 93
 	},
 	{
 		"name": "sblam",
