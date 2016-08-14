@@ -116,14 +116,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30987,
-		"common": 409
+		"ips": 30812,
+		"common": 408
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9010,
-		"common": 131
+		"ips": 9002,
+		"common": 130
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -152,13 +152,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26865,
+		"ips": 26749,
 		"common": 84
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1700,
+		"ips": 1667,
 		"common": 44
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 895,
+		"ips": 894,
 		"common": 13
 	},
 	{
@@ -506,13 +506,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145567,
+		"ips": 145395,
 		"common": 5879
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646213,
+		"ips": 1646212,
 		"common": 263
 	},
 	{
@@ -794,8 +794,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2534,
-		"common": 5
+		"ips": 2522,
+		"common": 4
 	},
 	{
 		"name": "jigsaw_attacks",

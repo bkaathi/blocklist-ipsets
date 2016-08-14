@@ -152,55 +152,55 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 300,
+		"ips": 299,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 1338,
+		"ips": 1337,
 		"common": 16
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 612,
+		"ips": 611,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4353,
+		"ips": 4365,
 		"common": 84
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5749,
-		"common": 179
+		"ips": 5750,
+		"common": 178
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24826,
-		"common": 1486
+		"ips": 24829,
+		"common": 1487
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10555,
-		"common": 455
+		"ips": 10563,
+		"common": 456
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30987,
-		"common": 2769
+		"ips": 30812,
+		"common": 2754
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9010,
+		"ips": 9002,
 		"common": 75
 	},
 	{
@@ -230,8 +230,8 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26865,
-		"common": 2421
+		"ips": 26749,
+		"common": 2409
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1700,
-		"common": 105
+		"ips": 1667,
+		"common": 103
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -572,7 +572,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 895,
+		"ips": 894,
 		"common": 36
 	},
 	{
@@ -782,13 +782,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145567,
-		"common": 13234
+		"ips": 145395,
+		"common": 13219
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1646213,
+		"ips": 1646212,
 		"common": 187038
 	},
 	{
@@ -1148,8 +1148,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2534,
-		"common": 160
+		"ips": 2522,
+		"common": 164
 	},
 	{
 		"name": "jigsaw_attacks",
