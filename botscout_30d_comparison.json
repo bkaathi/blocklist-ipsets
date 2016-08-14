@@ -74,19 +74,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4326,
+		"ips": 4335,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5709,
+		"ips": 5710,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24809,
+		"ips": 24811,
 		"common": 6
 	},
 	{
@@ -410,19 +410,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108032,
+		"ips": 108800,
 		"common": 16
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1574912,
+		"ips": 1575936,
 		"common": 244
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 473600,
+		"ips": 475392,
 		"common": 54
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278042,
+		"ips": 666278298,
 		"common": 482
 	},
 	{
@@ -512,8 +512,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1645335,
-		"common": 999
+		"ips": 1646387,
+		"common": 1000
 	},
 	{
 		"name": "firehol_level4",
@@ -662,7 +662,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unroutable",
-		"ips": 604145480,
+		"ips": 604131144,
 		"common": 36
 	},
 	{
@@ -932,8 +932,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36003,
-		"common": 111
+		"ips": 36038,
+		"common": 116
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1196,7 +1196,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1454,
+		"ips": 1452,
 		"common": 1
 	},
 	{
@@ -1442,8 +1442,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8157,
-		"common": 433
+		"ips": 8079,
+		"common": 434
 	},
 	{
 		"name": "threatcrowd",
