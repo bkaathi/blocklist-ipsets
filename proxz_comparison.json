@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29744,
+		"ips": 29824,
 		"common": 6
 	},
 	{
@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15517,
+		"ips": 15442,
 		"common": 2
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143564,
+		"ips": 143643,
 		"common": 6
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584296,
+		"ips": 9584223,
 		"common": 6
 	},
 	{
@@ -195,6 +195,12 @@
 		"name": "myip",
 		"category": "abuse",
 		"ips": 1958,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35623,
 		"common": 1
 	},
 	{
