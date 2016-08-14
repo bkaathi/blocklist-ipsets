@@ -98,38 +98,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29860,
-		"common": 1039
+		"ips": 29909,
+		"common": 1036
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9009,
+		"ips": 9011,
 		"common": 43
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1479,
-		"common": 715
+		"ips": 1473,
+		"common": 714
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 962,
+		"ips": 958,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25604,
-		"common": 308
+		"ips": 25657,
+		"common": 307
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1787,
-		"common": 9
+		"ips": 1791,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 65415,
+		"ips": 65427,
 		"common": 254
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85621,
-		"common": 2628
+		"ips": 85619,
+		"common": 2627
 	},
 	{
 		"name": "firehol_level1",
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143337,
-		"common": 1102
+		"ips": 143385,
+		"common": 1099
 	},
 	{
 		"name": "firehol_level3",
@@ -1298,26 +1298,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1028,
-		"common": 388
+		"ips": 1026,
+		"common": 387
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1098,
+		"ips": 1100,
 		"common": 395
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2979,
+		"ips": 2977,
 		"common": 483
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1528,
-		"common": 453
+		"ips": 1522,
+		"common": 451
 	},
 	{
 		"name": "trustedsec_atif",
