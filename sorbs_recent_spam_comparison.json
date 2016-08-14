@@ -164,8 +164,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29909,
-		"common": 5109
+		"ips": 30039,
+		"common": 5148
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1791,
+		"ips": 1794,
 		"common": 54
 	},
 	{
@@ -272,20 +272,20 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1266,
-		"common": 22
+		"ips": 1260,
+		"common": 21
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21246,
-		"common": 511
+		"ips": 21243,
+		"common": 510
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 6833,
-		"common": 107
+		"common": 106
 	},
 	{
 		"name": "bruteforceblocker",
@@ -501,25 +501,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 33
+		"common": 45
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 106496,
-		"common": 297
+		"ips": 108288,
+		"common": 339
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1572096,
-		"common": 6598
+		"ips": 1572864,
+		"common": 6637
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 471552,
-		"common": 1523
+		"ips": 472064,
+		"common": 1546
 	},
 	{
 		"name": "dshield_top_1000",
@@ -656,7 +656,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51935,
+		"ips": 51934,
 		"common": 1356
 	},
 	{
@@ -674,26 +674,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666279323,
-		"common": 3002
+		"ips": 666279321,
+		"common": 3014
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143385,
-		"common": 5856
+		"ips": 145304,
+		"common": 5937
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1642404,
-		"common": 8398
+		"ips": 1643170,
+		"common": 8437
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584229,
-		"common": 4127
+		"ips": 9584226,
+		"common": 4126
 	},
 	{
 		"name": "firehol_proxies",

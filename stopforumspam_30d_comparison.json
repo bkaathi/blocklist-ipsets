@@ -104,8 +104,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29909,
-		"common": 1441
+		"ips": 30039,
+		"common": 1443
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1791,
+		"ips": 1794,
 		"common": 19
 	},
 	{
@@ -206,20 +206,20 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 55,
-		"common": 35
+		"ips": 48,
+		"common": 38
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1266,
-		"common": 668
+		"ips": 1260,
+		"common": 659
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21246,
-		"common": 9997
+		"ips": 21243,
+		"common": 9995
 	},
 	{
 		"name": "botscout_7d",
@@ -447,25 +447,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 7
+		"common": 2
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 106496,
-		"common": 88
+		"ips": 108288,
+		"common": 89
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1572096,
+		"ips": 1572864,
 		"common": 795
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 471552,
-		"common": 212
+		"ips": 472064,
+		"common": 210
 	},
 	{
 		"name": "esentire_auth_update_ru",
@@ -566,8 +566,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51935,
-		"common": 12557
+		"ips": 51934,
+		"common": 12556
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -584,26 +584,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666279323,
-		"common": 774
+		"ips": 666279321,
+		"common": 769
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143385,
-		"common": 1576
+		"ips": 145304,
+		"common": 1579
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1642404,
+		"ips": 1643170,
 		"common": 1865
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584229,
-		"common": 10525
+		"ips": 9584226,
+		"common": 10523
 	},
 	{
 		"name": "firehol_proxies",
