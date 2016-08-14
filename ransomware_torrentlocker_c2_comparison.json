@@ -1,0 +1,86 @@
+[
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 1570560,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 666279326,
+		"common": 27
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 1640817,
+		"common": 22
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9584240,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 46353905,
+		"common": 4
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1095130,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691761,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 339021,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 46137992,
+		"common": 3
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11299,
+		"common": 27
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2064,
+		"common": 22
+	},
+	{
+		"name": "stopforumspam_toxic",
+		"category": "abuse",
+		"ips": 553047,
+		"common": 2
+	}
+]
