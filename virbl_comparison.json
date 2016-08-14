@@ -1,11 +1,5 @@
 [
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 15440,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 183114,
@@ -20,14 +14,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142968,
-		"common": 6
-	},
-	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9584240,
-		"common": 1
+		"ips": 142967,
+		"common": 5
 	},
 	{
 		"name": "firehol_webserver",

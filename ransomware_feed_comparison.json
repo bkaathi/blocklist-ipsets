@@ -120,21 +120,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 49,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1252,
+		"ips": 1240,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21250,
+		"ips": 21244,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6810,
+		"ips": 6815,
 		"common": 1
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52152,
+		"ips": 52143,
 		"common": 3
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85739,
+		"ips": 85743,
 		"common": 1
 	},
 	{
@@ -344,19 +350,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142968,
+		"ips": 142967,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1640817,
+		"ips": 1640816,
 		"common": 68
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584240,
+		"ips": 9584235,
 		"common": 181
 	},
 	{
@@ -543,7 +549,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "iblocklist_malc0de",
