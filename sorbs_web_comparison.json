@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14757,
-		"common": 400
+		"ips": 14866,
+		"common": 411
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -531,25 +531,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 39
+		"common": 12
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110080,
+		"ips": 111360,
 		"common": 586
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1582848,
-		"common": 15084
+		"common": 15072
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 479488,
-		"common": 3537
+		"ips": 479744,
+		"common": 3534
 	},
 	{
 		"name": "dshield_top_1000",
@@ -771,7 +771,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666278300,
-		"common": 3262
+		"common": 3235
 	},
 	{
 		"name": "firehol_level2",
@@ -782,14 +782,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1652022,
-		"common": 16053
+		"ips": 1652053,
+		"common": 16041
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583571,
-		"common": 4545
+		"ips": 9583675,
+		"common": 4556
 	},
 	{
 		"name": "firehol_proxies",
@@ -1202,8 +1202,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37222,
-		"common": 4395
+		"ips": 37258,
+		"common": 4411
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1754,8 +1754,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7429,
-		"common": 580
+		"ips": 7196,
+		"common": 551
 	},
 	{
 		"name": "threatcrowd",
