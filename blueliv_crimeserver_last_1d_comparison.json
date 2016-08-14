@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 243,
+		"ips": 242,
 		"common": 14
 	},
 	{
@@ -216,39 +216,51 @@
 		"common": 350
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3913,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 41446,
+		"ips": 41379,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 179061,
+		"ips": 179083,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 94241,
+		"ips": 94250,
 		"common": 10
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 47558,
+		"ips": 47438,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 184297,
+		"ips": 184340,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111586,
+		"ips": 111619,
 		"common": 10
 	},
 	{
@@ -297,25 +309,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108032,
-		"common": 13
+		"ips": 109312,
+		"common": 14
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1574912,
-		"common": 84
+		"ips": 1575680,
+		"common": 85
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 474880,
-		"common": 25
+		"ips": 475904,
+		"common": 26
 	},
 	{
 		"name": "dshield_top_1000",
@@ -386,13 +398,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51050,
+		"ips": 50935,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 345295,
+		"ips": 345317,
 		"common": 17
 	},
 	{
@@ -404,20 +416,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278301,
-		"common": 25
+		"ips": 666278300,
+		"common": 26
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142656,
-		"common": 14
+		"ips": 145513,
+		"common": 16
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1645411,
-		"common": 112
+		"ips": 1646213,
+		"common": 113
 	},
 	{
 		"name": "firehol_level4",
@@ -440,8 +452,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4176,
-		"common": 1
+		"ips": 5879,
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
