@@ -32,14 +32,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30126,
-		"common": 296
+		"ips": 30294,
+		"common": 294
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9015,
-		"common": 296
+		"ips": 9014,
+		"common": 294
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15326,
-		"common": 147
+		"ips": 15225,
+		"common": 148
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -87,13 +87,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 178997,
-		"common": 123
+		"common": 122
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 94286,
-		"common": 115
+		"common": 114
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -105,13 +105,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 69833,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 16137,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "cleantalk_top20",
@@ -135,13 +135,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 184064,
-		"common": 139
+		"common": 138
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111630,
-		"common": 126
+		"common": 125
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -207,7 +207,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 345172,
-		"common": 137
+		"common": 136
 	},
 	{
 		"name": "firehol_level1",
@@ -218,20 +218,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147465,
-		"common": 296
+		"ips": 146866,
+		"common": 294
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1644863,
+		"ips": 1644875,
 		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584100,
-		"common": 152
+		"ips": 9584004,
+		"common": 153
 	},
 	{
 		"name": "firehol_webserver",
@@ -502,12 +502,6 @@
 		"category": "abuse",
 		"ips": 553047,
 		"common": 9
-	},
-	{
-		"name": "taichung",
-		"category": "attacks",
-		"ips": 8641,
-		"common": 1
 	},
 	{
 		"name": "turris_greylist",

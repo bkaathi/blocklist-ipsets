@@ -92,25 +92,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30126,
-		"common": 9015
+		"ips": 30294,
+		"common": 9014
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1474,
+		"ips": 1454,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 296,
-		"common": 296
+		"ips": 294,
+		"common": 294
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25931,
+		"ips": 26137,
 		"common": 8500
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15326,
-		"common": 151
+		"ips": 15225,
+		"common": 152
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -183,13 +183,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 178997,
-		"common": 279
+		"common": 278
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 94286,
-		"common": 208
+		"common": 207
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -201,13 +201,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 69833,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 16137,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "cleantalk_top20",
@@ -231,13 +231,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 184064,
-		"common": 312
+		"common": 311
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111630,
-		"common": 226
+		"common": 225
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -285,19 +285,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 109568,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1574400,
-		"common": 68
+		"common": 66
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 475648,
-		"common": 48
+		"common": 46
 	},
 	{
 		"name": "dshield_top_1000",
@@ -351,7 +351,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 23147076,
-		"common": 1800
+		"common": 1799
 	},
 	{
 		"name": "et_compromised",
@@ -363,7 +363,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "et_spamhaus",
@@ -381,7 +381,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 345172,
-		"common": 370
+		"common": 369
 	},
 	{
 		"name": "firehol_level1",
@@ -392,20 +392,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147465,
-		"common": 9015
+		"ips": 146866,
+		"common": 9014
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1644863,
-		"common": 96
+		"ips": 1644875,
+		"common": 94
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584100,
-		"common": 204
+		"ips": 9584004,
+		"common": 205
 	},
 	{
 		"name": "firehol_webserver",
@@ -495,7 +495,7 @@
 		"name": "iblocklist_dshield",
 		"category": "reputation",
 		"ips": 5120,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -615,7 +615,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "lashback_ubl",
@@ -663,7 +663,7 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19635,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "openbl_60d",
@@ -687,7 +687,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 121493,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "packetmail",
@@ -783,7 +783,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -885,12 +885,12 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 8641,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7980,
+		"ips": 7993,
 		"common": 1
 	},
 	{
@@ -909,7 +909,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "voipbl",
