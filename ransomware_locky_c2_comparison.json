@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 240,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bambenek_simda",
@@ -128,8 +128,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666279322,
-		"common": 178
+		"ips": 666278298,
+		"common": 179
 	},
 	{
 		"name": "firehol_level3",
@@ -140,14 +140,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584274,
+		"ips": 9584296,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "gofferje_sip",
@@ -213,7 +213,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -254,14 +254,14 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 76,
-		"common": 4
+		"ips": 73,
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "ransomware_feed",
@@ -272,8 +272,8 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11299,
-		"common": 178
+		"ips": 11300,
+		"common": 179
 	},
 	{
 		"name": "snort_ipfilter",
