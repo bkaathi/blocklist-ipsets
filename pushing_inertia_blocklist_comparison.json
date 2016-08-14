@@ -159,7 +159,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 118,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -350,7 +350,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15484,
+		"ips": 15469,
 		"common": 2659
 	},
 	{
@@ -398,32 +398,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6723,
-		"common": 1483
+		"ips": 6712,
+		"common": 1482
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 49,
-		"common": 13
+		"ips": 54,
+		"common": 15
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1240,
-		"common": 324
+		"ips": 1262,
+		"common": 327
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21244,
-		"common": 5181
+		"ips": 21245,
+		"common": 5180
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6815,
-		"common": 1822
+		"ips": 6829,
+		"common": 1825
 	},
 	{
 		"name": "botvrij_dst",
@@ -860,8 +860,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51802,
-		"common": 13983
+		"ips": 51810,
+		"common": 13984
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -872,8 +872,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85754,
-		"common": 29384
+		"ips": 85591,
+		"common": 29379
 	},
 	{
 		"name": "firehol_level1",
@@ -896,8 +896,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584270,
-		"common": 55266
+		"ips": 9584256,
+		"common": 55265
 	},
 	{
 		"name": "firehol_proxies",
@@ -1292,8 +1292,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32361,
-		"common": 496
+		"ips": 33078,
+		"common": 499
 	},
 	{
 		"name": "nt_malware_dns",
