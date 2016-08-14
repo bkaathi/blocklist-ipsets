@@ -66,6 +66,30 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 58,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1258,
+		"common": 1
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 21253,
+		"common": 1
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 6843,
+		"common": 1
+	},
+	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
@@ -344,7 +368,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51035,
+		"ips": 51038,
 		"common": 2
 	},
 	{
@@ -380,8 +404,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584272,
-		"common": 7
+		"ips": 9584270,
+		"common": 8
 	},
 	{
 		"name": "firehol_proxies",

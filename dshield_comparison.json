@@ -182,19 +182,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1259,
+		"ips": 1258,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21256,
+		"ips": 21253,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6857,
+		"ips": 6843,
 		"common": 1
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51035,
+		"ips": 51038,
 		"common": 10
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584272,
+		"ips": 9584270,
 		"common": 71
 	},
 	{
@@ -550,6 +550,12 @@
 		"category": "anonymizers",
 		"ips": 462,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35825,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",

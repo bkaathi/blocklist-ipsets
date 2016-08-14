@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24796,
+		"ips": 24801,
 		"common": 1
 	},
 	{
@@ -126,21 +126,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 58,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1259,
-		"common": 10
+		"ips": 1258,
+		"common": 11
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21256,
+		"ips": 21253,
 		"common": 121
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6857,
+		"ips": 6843,
 		"common": 43
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51035,
+		"ips": 51038,
 		"common": 647
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584272,
+		"ips": 9584270,
 		"common": 212
 	},
 	{
@@ -740,8 +746,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35770,
-		"common": 5623
+		"ips": 35825,
+		"common": 5593
 	},
 	{
 		"name": "nt_ssh_7d",
