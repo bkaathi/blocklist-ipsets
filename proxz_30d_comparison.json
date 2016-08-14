@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14810,
+		"ips": 14872,
 		"common": 34
 	},
 	{
@@ -102,28 +102,22 @@
 		"common": 2
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 46,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1212,
+		"ips": 1210,
 		"common": 35
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21187,
-		"common": 496
+		"ips": 21178,
+		"common": 494
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6809,
-		"common": 181
+		"ips": 6798,
+		"common": 179
 	},
 	{
 		"name": "bruteforceblocker",
@@ -290,7 +284,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50401,
+		"ips": 50403,
 		"common": 543
 	},
 	{
@@ -302,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85615,
+		"ips": 85613,
 		"common": 2195
 	},
 	{
@@ -326,13 +320,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583629,
-		"common": 494
+		"ips": 9583677,
+		"common": 492
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28018,
+		"ips": 28016,
 		"common": 2200
 	},
 	{
@@ -651,13 +645,13 @@
 		"name": "proxylists",
 		"category": "anonymizers",
 		"ips": 969,
-		"common": 407
+		"common": 406
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1346,
-		"common": 540
+		"ips": 1327,
+		"common": 531
 	},
 	{
 		"name": "proxylists_30d",
@@ -668,8 +662,8 @@
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4005,
-		"common": 1385
+		"ips": 3985,
+		"common": 1379
 	},
 	{
 		"name": "proxyrss",
@@ -807,7 +801,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -818,13 +812,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14162,
+		"ips": 14160,
 		"common": 21
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7097,
+		"ips": 7093,
 		"common": 16
 	},
 	{

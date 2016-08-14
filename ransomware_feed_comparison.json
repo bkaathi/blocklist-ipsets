@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 243,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -21,7 +21,7 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 119,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14810,
+		"ips": 14872,
 		"common": 16
 	},
 	{
@@ -87,13 +87,13 @@
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 26168,
-		"common": 278
+		"common": 279
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 7321,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -122,19 +122,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1212,
+		"ips": 1210,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21187,
+		"ips": 21178,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6809,
+		"ips": 6798,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50401,
+		"ips": 50403,
 		"common": 3
 	},
 	{
@@ -332,14 +332,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85615,
+		"ips": 85613,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666278300,
-		"common": 196
+		"common": 195
 	},
 	{
 		"name": "firehol_level3",
@@ -350,14 +350,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583629,
+		"ips": 9583677,
 		"common": 182
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
-		"common": 1000
+		"common": 1001
 	},
 	{
 		"name": "fullbogons",
