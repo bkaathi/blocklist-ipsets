@@ -48,16 +48,22 @@
 		"common": 1
 	},
 	{
+		"name": "bitcoin_nodes_30d",
+		"category": "organizations",
+		"ips": 24843,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30783,
-		"common": 332
+		"ips": 30898,
+		"common": 333
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14714,
-		"common": 147
+		"ips": 14713,
+		"common": 148
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145167,
-		"common": 332
+		"ips": 145279,
+		"common": 333
 	},
 	{
 		"name": "firehol_level3",
@@ -201,7 +207,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9583524,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "firehol_webserver",
@@ -237,7 +243,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -296,7 +302,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37258,
+		"ips": 37245,
 		"common": 1
 	},
 	{

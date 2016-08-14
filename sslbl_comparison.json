@@ -18,6 +18,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30898,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8992,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 26168,
@@ -86,7 +98,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145167,
+		"ips": 145279,
 		"common": 1
 	},
 	{
