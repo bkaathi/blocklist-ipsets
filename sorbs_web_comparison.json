@@ -68,7 +68,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 243,
+		"ips": 242,
 		"common": 1
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30857,
-		"common": 2600
+		"ips": 30936,
+		"common": 2609
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8993,
+		"ips": 8995,
 		"common": 27
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26830,
-		"common": 2526
+		"ips": 26896,
+		"common": 2535
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1667,
+		"ips": 1672,
 		"common": 35
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14847,
-		"common": 401
+		"ips": 14805,
+		"common": 398
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -308,7 +308,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 980,
+		"ips": 979,
 		"common": 11
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 2091,
+		"ips": 2104,
 		"common": 32
 	},
 	{
@@ -525,25 +525,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 1
+		"common": 16
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 110848,
-		"common": 559
+		"ips": 110336,
+		"common": 539
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1580800,
-		"common": 15031
+		"ips": 1581824,
+		"common": 15041
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 478720,
-		"common": 3514
+		"ips": 478208,
+		"common": 3524
 	},
 	{
 		"name": "dshield_top_1000",
@@ -764,26 +764,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278300,
-		"common": 3224
+		"ips": 666278044,
+		"common": 3239
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147238,
-		"common": 3440
+		"ips": 146803,
+		"common": 3429
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1651405,
-		"common": 16050
+		"ips": 1652432,
+		"common": 16060
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583657,
-		"common": 4546
+		"ips": 9583617,
+		"common": 4544
 	},
 	{
 		"name": "firehol_proxies",
@@ -1214,7 +1214,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9550,
+		"ips": 9547,
 		"common": 217
 	},
 	{
@@ -1226,31 +1226,31 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2120,
+		"ips": 2109,
 		"common": 36
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 19629,
+		"ips": 19622,
 		"common": 408
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3652,
+		"ips": 3648,
 		"common": 81
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 662,
+		"ips": 660,
 		"common": 14
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5131,
+		"ips": 5126,
 		"common": 123
 	},
 	{
