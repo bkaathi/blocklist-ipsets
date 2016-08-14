@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 7,
+		"ips": 8,
 		"common": 1
 	},
 	{
@@ -99,6 +99,12 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 819694,
 		"common": 1
 	},
 	{
