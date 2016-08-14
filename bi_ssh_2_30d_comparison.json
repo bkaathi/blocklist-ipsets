@@ -98,13 +98,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24828,
+		"ips": 24831,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10571,
+		"ips": 10568,
 		"common": 1
 	},
 	{
@@ -434,14 +434,14 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1576704,
+		"ips": 1576448,
 		"common": 1267
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 477184,
-		"common": 731
+		"ips": 476416,
+		"common": 728
 	},
 	{
 		"name": "dshield_top_1000",
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50781,
-		"common": 153
+		"ips": 50741,
+		"common": 154
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85534,
+		"ips": 85539,
 		"common": 72
 	},
 	{
@@ -506,13 +506,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146513,
-		"common": 1004
+		"ips": 146511,
+		"common": 1003
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1647256,
+		"ips": 1647000,
 		"common": 2302
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28016,
+		"ips": 28021,
 		"common": 64
 	},
 	{
@@ -866,8 +866,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 146,
-		"common": 120
+		"ips": 140,
+		"common": 115
 	},
 	{
 		"name": "openbl_30d",
@@ -1136,19 +1136,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2533,
+		"ips": 2539,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14185,
+		"ips": 14186,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7114,
+		"ips": 7116,
 		"common": 1
 	},
 	{
@@ -1226,8 +1226,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3950,
-		"common": 49
+		"ips": 3900,
+		"common": 50
 	},
 	{
 		"name": "stopforumspam_30d",
