@@ -122,25 +122,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29811,
+		"ips": 29948,
 		"common": 73
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9004,
+		"ips": 9013,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 944,
+		"ips": 947,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25598,
+		"ips": 25736,
 		"common": 4
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1753,
+		"ips": 1745,
 		"common": 9
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1574912,
-		"common": 1137
+		"ips": 1574400,
+		"common": 1136
 	},
 	{
 		"name": "dshield_7d",
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85616,
+		"ips": 85604,
 		"common": 83
 	},
 	{
@@ -500,14 +500,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142895,
-		"common": 316
+		"ips": 144559,
+		"common": 358
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1645319,
-		"common": 1193
+		"ips": 1644807,
+		"common": 1192
 	},
 	{
 		"name": "firehol_level4",
@@ -1022,7 +1022,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3962,
+		"ips": 3941,
 		"common": 3
 	},
 	{
