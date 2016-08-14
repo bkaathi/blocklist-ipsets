@@ -120,6 +120,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 243,
@@ -332,8 +338,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14785,
-		"common": 818
+		"ips": 14823,
+		"common": 817
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -620,8 +626,8 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 65608,
-		"common": 888
+		"ips": 65640,
+		"common": 889
 	},
 	{
 		"name": "dronebl_unknown",
@@ -890,7 +896,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583607,
+		"ips": 9583646,
 		"common": 2538200
 	},
 	{
