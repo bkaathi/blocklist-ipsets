@@ -290,8 +290,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85633,
-		"common": 2
+		"ips": 85619,
+		"common": 1
 	},
 	{
 		"name": "firehol_level1",
@@ -316,12 +316,6 @@
 		"category": "attacks",
 		"ips": 9584318,
 		"common": 39
-	},
-	{
-		"name": "firehol_proxies",
-		"category": "anonymizers",
-		"ips": 28095,
-		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -634,12 +628,6 @@
 		"category": "attacks",
 		"ips": 8552,
 		"common": 3
-	},
-	{
-		"name": "socks_proxy_30d",
-		"category": "anonymizers",
-		"ips": 14226,
-		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
