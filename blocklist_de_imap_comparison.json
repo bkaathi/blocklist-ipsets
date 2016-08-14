@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29824,
-		"common": 948
+		"ips": 29811,
+		"common": 944
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25587,
-		"common": 948
+		"ips": 25598,
+		"common": 944
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 108,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15514,
+		"ips": 15484,
 		"common": 19
 	},
 	{
@@ -218,14 +218,14 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108288,
+		"ips": 105984,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1574400,
-		"common": 54
+		"ips": 1573888,
+		"common": 55
 	},
 	{
 		"name": "dshield_7d",
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85577,
+		"ips": 85580,
 		"common": 1
 	},
 	{
@@ -296,19 +296,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 145179,
-		"common": 948
+		"ips": 142865,
+		"common": 944
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1644780,
-		"common": 109
+		"ips": 1644268,
+		"common": 110
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584298,
+		"ips": 9584256,
 		"common": 33
 	},
 	{
@@ -345,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -417,7 +417,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 72
+		"common": 73
 	},
 	{
 		"name": "iblocklist_level3",
@@ -500,7 +500,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35623,
+		"ips": 35695,
 		"common": 7
 	},
 	{
@@ -621,7 +621,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 73
+		"common": 71
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -645,13 +645,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6099893,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 60
+		"common": 59
 	},
 	{
 		"name": "spamhaus_drop",
