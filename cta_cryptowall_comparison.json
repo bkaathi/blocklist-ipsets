@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 242,
+		"ips": 243,
 		"common": 12
 	},
 	{
@@ -108,40 +108,52 @@
 		"common": 96
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4048,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 40941,
-		"common": 4
+		"ips": 41017,
+		"common": 5
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 179310,
-		"common": 25
+		"ips": 179301,
+		"common": 26
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 94140,
-		"common": 14
+		"ips": 94136,
+		"common": 15
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 46663,
-		"common": 4
+		"ips": 46769,
+		"common": 5
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 184965,
-		"common": 30
+		"ips": 184969,
+		"common": 31
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111596,
-		"common": 16
+		"ips": 111548,
+		"common": 17
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -188,13 +200,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1582080,
+		"ips": 1582336,
 		"common": 44
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 478720,
+		"ips": 478976,
 		"common": 4
 	},
 	{
@@ -224,19 +236,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50187,
-		"common": 4
+		"ips": 50293,
+		"common": 5
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 345217,
-		"common": 30
+		"ips": 345218,
+		"common": 31
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666278298,
+		"ips": 666278300,
 		"common": 12
 	},
 	{
