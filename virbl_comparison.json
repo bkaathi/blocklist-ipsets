@@ -1,33 +1,15 @@
 [
 	{
-		"name": "cleantalk_updated_30d",
-		"category": "abuse",
-		"ips": 184214,
-		"common": 1
-	},
-	{
-		"name": "firehol_abusers_30d",
-		"category": "abuse",
-		"ips": 345236,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142536,
-		"common": 6
+		"ips": 142534,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
 		"common": 2
-	},
-	{
-		"name": "iblocklist_bogons",
-		"category": "unroutable",
-		"ips": 666661539,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
