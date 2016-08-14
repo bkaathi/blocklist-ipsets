@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15529,
+		"ips": 15473,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 472576,
+		"ips": 472064,
 		"common": 17
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 143722,
+		"ips": 143723,
 		"common": 107
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584303,
+		"ips": 9584251,
 		"common": 11
 	},
 	{
@@ -250,12 +250,6 @@
 		"category": "attacks",
 		"ips": 121485,
 		"common": 4
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 1774,
-		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
