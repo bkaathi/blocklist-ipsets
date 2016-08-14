@@ -386,8 +386,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85541,
-		"common": 13427
+		"ips": 85535,
+		"common": 13430
 	},
 	{
 		"name": "firehol_level1",
@@ -398,14 +398,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146866,
+		"ips": 146865,
 		"common": 1134
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1644875,
-		"common": 369
+		"common": 370
 	},
 	{
 		"name": "firehol_level4",
@@ -416,8 +416,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28035,
-		"common": 13463
+		"ips": 28030,
+		"common": 13466
 	},
 	{
 		"name": "firehol_webserver",
@@ -675,7 +675,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2670867,
-		"common": 4491
+		"common": 4493
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -693,7 +693,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 36239,
-		"common": 745
+		"common": 747
 	},
 	{
 		"name": "nullsecure",
@@ -746,13 +746,13 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1735,
+		"ips": 1711,
 		"common": 1
 	},
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 118,
+		"ips": 61,
 		"common": 2
 	},
 	{
@@ -980,14 +980,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2556,
-		"common": 2556
+		"ips": 2549,
+		"common": 2549
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7148,
-		"common": 7148
+		"ips": 7151,
+		"common": 7151
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -999,7 +999,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 3062
+		"common": 3063
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1029,7 +1029,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1624
+		"common": 1625
 	},
 	{
 		"name": "spamhaus_drop",
@@ -1052,7 +1052,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2545,
+		"ips": 2537,
 		"common": 117
 	},
 	{
@@ -1076,8 +1076,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3967,
-		"common": 127
+		"ips": 3966,
+		"common": 122
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1119,7 +1119,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 7993,
-		"common": 274
+		"common": 275
 	},
 	{
 		"name": "threatcrowd",
@@ -1130,7 +1130,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2970,
+		"ips": 2966,
 		"common": 1
 	},
 	{

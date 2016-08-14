@@ -320,20 +320,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85541,
-		"common": 6733
+		"ips": 85535,
+		"common": 6736
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146866,
+		"ips": 146865,
 		"common": 1095
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1644875,
-		"common": 311
+		"common": 312
 	},
 	{
 		"name": "firehol_level4",
@@ -344,8 +344,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28035,
-		"common": 6755
+		"ips": 28030,
+		"common": 6758
 	},
 	{
 		"name": "firehol_webserver",
@@ -549,7 +549,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2670867,
-		"common": 2483
+		"common": 2485
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -567,7 +567,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 36239,
-		"common": 713
+		"common": 715
 	},
 	{
 		"name": "nullsecure",
@@ -620,7 +620,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 118,
+		"ips": 61,
 		"common": 2
 	},
 	{
@@ -842,14 +842,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2556,
-		"common": 2556
+		"ips": 2549,
+		"common": 2549
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14199,
-		"common": 7148
+		"ips": 14202,
+		"common": 7151
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -861,7 +861,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 1903
+		"common": 1904
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -891,7 +891,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1003
+		"common": 1004
 	},
 	{
 		"name": "sslproxies",
@@ -908,7 +908,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2545,
+		"ips": 2537,
 		"common": 65
 	},
 	{
@@ -932,8 +932,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3967,
-		"common": 126
+		"ips": 3966,
+		"common": 121
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -969,7 +969,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 7993,
-		"common": 266
+		"common": 267
 	},
 	{
 		"name": "threatcrowd",
@@ -980,7 +980,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2970,
+		"ips": 2966,
 		"common": 1
 	},
 	{
