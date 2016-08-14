@@ -98,8 +98,8 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 2710,
-		"common": 42
+		"ips": 2698,
+		"common": 43
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -428,7 +428,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1581056,
+		"ips": 1580800,
 		"common": 202
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85613,
+		"ips": 85603,
 		"common": 19
 	},
 	{
@@ -512,13 +512,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147226,
+		"ips": 147227,
 		"common": 6185
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1651661,
+		"ips": 1651405,
 		"common": 272
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28016,
+		"ips": 28006,
 		"common": 19
 	},
 	{
@@ -872,7 +872,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 144,
 		"common": 22
 	},
 	{
@@ -914,8 +914,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1711,
-		"common": 48
+		"ips": 1698,
+		"common": 49
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -932,7 +932,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 61,
+		"ips": 52,
 		"common": 1
 	},
 	{
@@ -1028,19 +1028,19 @@
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1253,
+		"ips": 1254,
 		"common": 4
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7133,
+		"ips": 7130,
 		"common": 10
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3310,
+		"ips": 3319,
 		"common": 7
 	},
 	{
@@ -1100,7 +1100,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2466,
+		"ips": 2465,
 		"common": 2
 	},
 	{
@@ -1190,7 +1190,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3888,
+		"ips": 3897,
 		"common": 13
 	},
 	{
