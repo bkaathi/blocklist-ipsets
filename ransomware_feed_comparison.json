@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15508,
+		"ips": 15541,
 		"common": 16
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1572352,
+		"ips": 1573376,
 		"common": 39
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 472064,
+		"ips": 472576,
 		"common": 11
 	},
 	{
@@ -350,20 +350,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1642681,
+		"ips": 1643728,
 		"common": 68
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584279,
+		"ips": 9584306,
 		"common": 182
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353905,
-		"common": 1001
+		"common": 1000
 	},
 	{
 		"name": "fullbogons",
@@ -405,7 +405,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19201,
-		"common": 897
+		"common": 896
 	},
 	{
 		"name": "hphosts_exp",
@@ -417,7 +417,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 13119,
-		"common": 101
+		"common": 100
 	},
 	{
 		"name": "hphosts_grm",
@@ -471,7 +471,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 100
+		"common": 99
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -543,7 +543,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -620,7 +620,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35155,
+		"ips": 35208,
 		"common": 3
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8397,
+		"ips": 8314,
 		"common": 10
 	},
 	{
