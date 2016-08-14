@@ -8,19 +8,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30786,
+		"ips": 30839,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1443,
+		"ips": 1434,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26734,
+		"ips": 26773,
 		"common": 9
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 65609,
+		"ips": 65608,
 		"common": 1
 	},
 	{
@@ -165,12 +165,12 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 85528,
-		"common": 269
+		"common": 272
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 147481,
+		"ips": 147550,
 		"common": 35
 	},
 	{
@@ -189,7 +189,7 @@
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 28010,
-		"common": 270
+		"common": 273
 	},
 	{
 		"name": "firehol_webserver",
@@ -296,7 +296,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36605,
+		"ips": 36686,
 		"common": 11
 	},
 	{
@@ -500,19 +500,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2529,
+		"ips": 2521,
 		"common": 15
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 14186,
+		"ips": 14184,
 		"common": 15
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 7119,
+		"ips": 7116,
 		"common": 15
 	},
 	{
@@ -525,7 +525,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 99
+		"common": 102
 	},
 	{
 		"name": "sorbs_noserver",
@@ -549,7 +549,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 123
+		"common": 126
 	},
 	{
 		"name": "sslproxies",
@@ -560,14 +560,14 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2536,
-		"common": 270
+		"ips": 2538,
+		"common": 273
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1084,
-		"common": 270
+		"ips": 1085,
+		"common": 273
 	},
 	{
 		"name": "stopforumspam",
